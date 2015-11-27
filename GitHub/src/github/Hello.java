@@ -7,6 +7,6 @@ public class Hello {
 	}
 	
 	public void hit(){
-		System.out.println("test123");
+		System.out.println("ditgaatwsshelemaalmis");
 	}
 }
