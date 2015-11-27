@@ -13,4 +13,7 @@ public class Hello {
 	public void ding(){
 		int text;
 	}
+	public void test(){
+		
+	}
 }
