@@ -9,4 +9,8 @@ public class Hello {
 	public void hit(){
 		System.out.println("ditgaatwsshelemaalmis");
 	}
+	
+	public void test(){
+		
+	}
 }
